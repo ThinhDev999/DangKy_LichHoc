@@ -1,0 +1,1145 @@
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe.config
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.dll
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csprojAssemblyReference.cache
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Class.g.cs
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.g.cs
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.g.cs
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\HomePage.g.cs
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.g.cs
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Student.g.cs
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Subject.g.cs
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\App.g.cs
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.cache
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.lref
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\App.baml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Class.baml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.baml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.baml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\HomePage.baml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.baml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Student.baml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Subject.baml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.g.resources
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.Properties.Resources.resources
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.GenerateResource.cache
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CoreCompileInputs.cache
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CopyComplete
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.exe
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.pdb
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.g.cs
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.baml
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.g.cs
+C:\Users\503\Documents\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe.config
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.dll
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csprojAssemblyReference.cache
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Class.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\HomePage.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Student.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Subject.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\App.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.cache
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.lref
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\App.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Class.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\HomePage.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Student.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Subject.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.g.resources
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.Properties.Resources.resources
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.GenerateResource.cache
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CoreCompileInputs.cache
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CopyComplete
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.exe
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.pdb
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.g.cs
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.baml
+C:\Users\503\Documents\Zalo Received Files\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe.config
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.dll
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.AssemblyReference.cache
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Class.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\HomePage.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Student.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Subject.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\App.g.cs
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.cache
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.lref
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\App.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Class.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\HomePage.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Student.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Subject.baml
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.g.resources
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.Properties.Resources.resources
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.GenerateResource.cache
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CopyComplete
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.exe
+C:\Users\Administrator\Documents\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe.config
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.Aero2.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.dll
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.AssemblyReference.cache
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Class.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\HomePage.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Student.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Subject.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\App.g.cs
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.cache
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.lref
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\App.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Class.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\HomePage.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Student.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\Subject.baml
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.g.resources
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.Properties.Resources.resources
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.GenerateResource.cache
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CoreCompileInputs.cache
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CopyComplete
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.exe
+D:\Downloads\DoAnCoSo\DoAnCoSo\DoAnCoSo\DoAnCoSo\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe.config
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.dll
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.AssemblyReference.cache
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Class.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\HomePage.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Student.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Subject.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\App.g.cs
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.cache
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.lref
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\App.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Class.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\HomePage.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Student.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Subject.baml
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.g.resources
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.Properties.Resources.resources
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.GenerateResource.cache
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CopyComplete
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.exe
+C:\Users\admin\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe.config
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.dll
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.AssemblyReference.cache
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.SuggestedBindingRedirects.cache
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Class.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\HomePage.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Student.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Subject.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\App.g.cs
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.cache
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.lref
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\App.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Class.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\HomePage.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Student.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\Subject.baml
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.g.resources
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.Properties.Resources.resources
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.GenerateResource.cache
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CoreCompileInputs.cache
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CopyComplete
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.exe
+C:\Users\admim1\OneDrive\Desktop\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe.config
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.AssemblyReference.cache
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.SuggestedBindingRedirects.cache
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\Class.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\HomePage.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\Student.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\Subject.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\App.g.cs
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.cache
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.lref
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\App.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\Class.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\HomePage.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\Student.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\Subject.baml
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.g.resources
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.Properties.Resources.resources
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.GenerateResource.cache
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CoreCompileInputs.cache
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CopyComplete
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.exe
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.pdb
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\GongSolutions.WPF.DragDrop.dll
+C:\Users\20010\Downloads\ChonTinChi\ChonTinChi\ChonTinChi\bin\Debug\GongSolutions.WPF.DragDrop.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe.config
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.exe
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\ChonTinChi.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\GongSolutions.WPF.DragDrop.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.Aero2.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\PresentationFramework.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\GongSolutions.WPF.DragDrop.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.AssemblyReference.cache
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.SuggestedBindingRedirects.cache
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\Class.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\HomePage.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\Student.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\Subject.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\App.g.cs
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.cache
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi_MarkupCompile.lref
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\App.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\Class.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\DangKyHoc.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\FromAdmin.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\FromLogin.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\FromSinhVien.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\HomePage.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\KetQuaDangKy.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\LichCaNhan.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\LichHoc.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\MainWindow.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\Student.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\Subject.baml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.g.resources
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.Properties.Resources.resources
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.GenerateResource.cache
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CoreCompileInputs.cache
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.csproj.CopyComplete
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.exe
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\obj\Debug\ChonTinChi.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\BitMiracle.LibTiff.NET.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\IronSoftware.Drawing.Common.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\IronXL.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\SixLabors.ImageSharp.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\System.Buffers.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\System.Memory.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\BitMiracle.LibTiff.NET.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\IronSoftware.Drawing.Common.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\IronXL.pdb
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\IronXL.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\IronXL.dll.config
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\SixLabors.ImageSharp.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\System.Buffers.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\System.Memory.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\20010\OneDrive\Máy tính\ChonTinChi\ChonTinChi\bin\Debug\System.Text.Encoding.CodePages.xml
